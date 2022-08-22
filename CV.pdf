@@ -1,0 +1,85 @@
+<html>
+
+<a href="CV.pdf"> Download </a>
+
+<body>
+<h1>CURRICULUM VITAE</h1>
+
+
+
+<h1>Personal Information</h1>
+
+<label for="fNames">Full Name:</label><br>
+<input type="text'id="FName" name="FName" value="*Sakhile Sash*" size="80"><br></li></la>
+
+
+<label for="Surname">Surname:</label><br>
+<input type="text'id="Surname" name="Surname" value="*Mafa*" size="80"><br>
+
+
+<label for="IDno">ID number:</label><br>
+<div<input type="text'id="IDno" name="IDno" value="*9308145189088*" size="80"><br>
+
+
+<label for="PAddress">Physical Address:</label><br>
+<input type="text'id="PAddress" name="PAddress" value="*54 Joe Slovo Crescent, Mandela Park*" size="80"><br>
+
+
+<label for="Cellno">Cellphone Number:</label><br>
+<input type="text'id="Cellno" name="Cellno" value="*0658633142*" size="80"><br>
+
+
+<label for="EAddress">Email Address:</label><br>
+<input type="text'id="EAddress" name="EAddress" value="*sashthedj@gmail.com*" size="80"><br>
+
+
+<label for="MStatus">Marital Status:</label><br>
+<input type="text'id="MStatus" name="MStatus" value="*Single*" size="80"><br>
+
+
+<label for="Health">Health:</label><br>
+<input type="text'id="Health" name="Health" value="*Excellent*" size="80"><br>
+
+
+<label for="Lcode">License Code:</label><br>
+<input type="text'id="Lcode" name="Lcode" value="*Code B*" size="80"><br>
+
+
+<h1>Qualifications</h1>
+<label for="Nschool">Name Of School:</label><br>
+<input type="text'id="Nschool" name="Nschool" value="*False Bay College*" size="80"><br>
+
+
+<label for="Hpassed">Highest Grade Passed:</label><br>
+<input type="text'id="Hpassed" name="Hpassed" value="*NCV Level 4*" size="80"><br>
+
+
+<label for="Spassed">Subjects Passed:</label><br>
+<input type="text'id="Spassed" name="Spassed" value="*Project Management*" size="80"><br>
+<input type="text'id="Spassed" name="Spassed" value="*Office Data Processing*" size="80"><br>
+<input type="text'id="Spassed" name="Spassed" value="*Office Practice*" size="80"><br>
+
+
+
+
+<label for="Heducation">Higher Education:</label><br>
+<input type="text'id="Heducation" name="Heducation" value="Codetelligent" size="80"><br>
+
+
+<h1> Work Experience</h1>
+<input type="text'id="Surname" name="Surname" value="*fill in*"><br>
+<input type="text'id="Surname" name="Surname" value="*fill in*" size="80"><br>
+
+<h1> Reference </h1
+<input type="text'id="Surname" name="Surname" value="*fill in*"><br>
+<input type="text'id="Surname" name="Surname" value="*fill in*" size="80"><br>
+
+
+
+
+
+
+
+
+</body>
+</html>
